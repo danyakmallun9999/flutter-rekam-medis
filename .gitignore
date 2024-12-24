@@ -1,0 +1,43 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+build/
+flutter_*.png
+*.log
+
+# Android related
+android/.gradle/
+android/app/debug/
+android/app/profile/
+android/app/release/
+android/local.properties
+android/.idea/
+android/app/src/main/res/mipmap-*/ic_launcher.xml
+android/app/src/main/res/mipmap-*/ic_launcher_round.xml
+
+# iOS related
+ios/Flutter/.last_build_id
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/Runner/GeneratedPluginRegistrant.h
+ios/Runner/GeneratedPluginRegistrant.m
+
+# VS Code settings
+.vscode/
+
+# IntelliJ IDEA related
+.idea/
+*.iml
+
+# Other
+*.jks
+*.keystore
+*.swp
+*.swo
+*.DS_Store
+
+# nodejs
+backend/node_modules
